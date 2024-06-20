@@ -1,0 +1,28 @@
+{
+  "name": "@dreamitdev/mazo",
+  "version": "0.0.0",
+  "description": "A simple aws sdk wrapper for dreamit dev projects.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamitdev/mazo.git"
+  },
+  "keywords": [
+    "aws",
+    "sdk",
+    "wrapper"
+  ],
+  "author": "wabisque-dreamitdev",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dreamitdev/mazo/issues"
+  },
+  "homepage": "https://github.com/dreamitdev/mazo#readme",
+  "dependencies": {
+    "@aws-sdk/client-secrets-manager": "^3.600.0"
+  }
+}
